@@ -200,11 +200,11 @@ The variable names for the 66 features related to mean and standard deviation me
 ```
 The variable names are constructed in an ordered sequence as follows:
 
-1) body acceleration/gyroscope or gravity accelaration
-2) Jerk or Magnitude appended where relevant
-3) time domain (TD), or frequency domain (FD)
-4) mean (Mean) or standard deviation (Std)
-5) axial direction (X, Y, Z) where relevant
+1. body acceleration/gyroscope or gravity accelaration
+2. Jerk or Magnitude appended where relevant
+3. time domain (TD), or frequency domain (FD)
+4. mean (Mean) or standard deviation (Std)
+5. axial direction (X, Y, Z) where relevant
 
 This completes the processing on the `reducedDataset` data frame.
 
