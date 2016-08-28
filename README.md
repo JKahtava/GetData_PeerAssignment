@@ -6,6 +6,7 @@ Getting and Cleaning Data - Peer Assignment on smartphone data
 
 This repository holds the following files for the Getting and Cleaning Data project:
 
+
 1) run_analysis.R
 2) CodeBook.md
 3) Readme.md (this file)
@@ -22,7 +23,8 @@ This repository holds the following files for the Getting and Cleaning Data proj
 `CodeBook.md` gives more detailed explanation on how the process of reading in and transforming the data takes place.
 
 ## Using the files
-In order to reproduce the data processing steps,
+In order to reproduce the data processing steps:
+
 
 1) clone this repository
 2) move run_analysis.R to your working directory (the folder `"/UCI HAR Dataset"` will be created under this working directory)
