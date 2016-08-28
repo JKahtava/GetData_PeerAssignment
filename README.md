@@ -7,9 +7,9 @@ Getting and Cleaning Data - Peer Assignment on smartphone data
 This repository holds the following files for the Getting and Cleaning Data project:
 
 
-1) run_analysis.R
-2) CodeBook.md
-3) Readme.md (this file)
+1. run_analysis.R
+2. CodeBook.md
+3. Readme.md (this file)
 
 ## The purpose of the files
 `run_analysis.R` contains all the script for
@@ -26,9 +26,9 @@ This repository holds the following files for the Getting and Cleaning Data proj
 In order to reproduce the data processing steps:
 
 
-1) clone this repository
-2) move run_analysis.R to your working directory (the folder `"/UCI HAR Dataset"` will be created under this working directory)
-3) run `source("run_analysis.R")`
-4) find the final, tidy dataset in the working directory as `"meanandstd_averages.csv"`
+1. clone this repository
+2. move run_analysis.R to your working directory (the folder `"/UCI HAR Dataset"` will be created under this working directory)
+3. run `source("run_analysis.R")`
+4. find the final, tidy dataset in the working directory as `"meanandstd_averages.csv"`
 
 
