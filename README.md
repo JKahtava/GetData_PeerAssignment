@@ -27,7 +27,7 @@ In order to reproduce the data processing steps:
 
 
 1. clone this repository
-2. move run_analysis.R to your working directory (the folder `"/UCI HAR Dataset"` will be created under this working directory)
+2. move `run_analysis.R` to your working directory (the folder `"/UCI HAR Dataset"` will be created under this working directory)
 3. run `source("run_analysis.R")`
 4. find the final, tidy dataset in the working directory as `"meanandstd_averages.csv"`
 
