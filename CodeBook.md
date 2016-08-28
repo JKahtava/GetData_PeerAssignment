@@ -271,7 +271,7 @@ head(averageFeatures[1:3])
 ## 6        LAYING           6                0.2486565
 ```
 
-Finally, the tidy dataset of feature averages for each activity and subject is stored as a csv-file in `meanandstd_averages.csv`.
+Finally, the tidy dataset of feature averages for each activity and subject is stored as a csv-file in `meanandstd_averages.txt`.
 
 
 

@@ -149,4 +149,4 @@ names(reducedDataset) <- namesFull
 
 averageFeatures <- reducedDataset %>% group_by(activitylabel, testsubject)%>%
         summarise_each(funs(mean))
-write.csv(averageFeatures, "./meanandstd_averages.csv", row.names = FALSE)
+write.table(averageFeatures, "./meanandstd_averages.txt", row.names = FALSE)
